@@ -16,10 +16,4 @@ Data includes  1 * 98 * 98 images and there are 30 target lables we need to pred
 2) CNN Model
   1 * 96 * 96  ==> 16 * 96 * 96 ==> 16 * 48 * 48 ===> 32 * 48 * 48 ===>32 * 24 * 2 4 ===>64 *  12 * 12   ==>64 * 12 * 12 ===>1024 ===>30
 
----
-
-
-
-*   List item
-*   List item
 
